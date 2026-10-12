@@ -1,0 +1,5 @@
+Copyright © 2026 Late Bloom Software. All rights reserved.
+
+This repository and all files within it are proprietary and confidential. No permission is granted to use, copy, modify, distribute, publish, sublicense, or create derivative works from any part of this repository, except with the prior written permission of Late Bloom Software.
+
+Unauthorized use, reproduction, or distribution is prohibited.
